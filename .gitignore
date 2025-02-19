@@ -1,0 +1,2 @@
+*.csv
+!linear-regression-algorithm/Salaries.csv
